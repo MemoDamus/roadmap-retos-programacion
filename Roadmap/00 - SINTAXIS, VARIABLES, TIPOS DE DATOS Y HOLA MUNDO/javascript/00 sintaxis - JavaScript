@@ -1,0 +1,15 @@
+// https://developer.mozilla.org/es/docs/Web/JavaScript
+
+// Primera manera /* Segunda manera */
+
+var gato;
+let perro;
+const conejo = 0;
+
+let string = '';
+let numero = 0;
+let booleano = true;
+let nulo = null;
+let vacio = undefined;
+
+console.log('¡Hola, JavaScript!')
